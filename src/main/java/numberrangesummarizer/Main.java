@@ -14,6 +14,8 @@ public class Main {
             String result = summarizer.summarizeCollection(collectedNumbers);
             
             System.out.println("Summarized Range: " + result);
+        } catch (IllegalArgumentException e) {
+            System.out.println("Error: Input must be a list of Integers Delimited by a comma..." );
         }
     }
 }
