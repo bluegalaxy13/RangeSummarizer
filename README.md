@@ -9,23 +9,6 @@ This project implements the `NumberRangeSummarizer` interface to produce a comma
 - Java 8 or later
 - Maven for build automation
 
-## Project Structure
-
-RangeSummarizer/
-├── src/
-│ ├── main/
-│ │ └── java/
-│ │ └── numberrangesummarizer/
-│ │ ├── Main.java
-│ │ ├── NumberRangeSummarizer.java
-│ │ └── NumberRangeSummarizerImpl.java
-│ └── test/
-│ └── java/
-│ └── numberrangesummarizer/
-│ └── NumberRangeSummarizerTest.java
-├── pom.xml
-└── .gitignore
-
 ## Usage
 
 1. Clone the repository.
