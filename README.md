@@ -15,7 +15,6 @@ This project implements the `NumberRangeSummarizer` interface to produce a comma
 2. Install Maven: `mvn -v`
 3. Build the project using Maven: `mvn clean compile`.
 4. Run the tests using Maven: `mvn test`.
-5. Use Maven to run the 'Main' Class: `mvn exec:java -Dexec.mainClass="numberrangesummarizer.Main"`
 
 Alternatively, you can manually compile and run the Java files:
 
